@@ -1,1 +1,1 @@
-This repository houses a comprehensive Behavior-Driven Development (BDD) framework built using Cucumber and Selenium with Java. It's designed to streamline and enhance the test automation process for web applications, ensuring maintainability, scalability, and robustness.
+
