@@ -17,7 +17,7 @@ import io.cucumber.testng.CucumberOptions;
 "C:\\Users\\akhil\\eclipse-workspace\\CucumberFrameWork\\src\\test\\resources\\Features\\ValidUserAddProductToCart.feature",
 "C:\\Users\\akhil\\eclipse-workspace\\CucumberFrameWork\\src\\test\\resources\\Features\\GuestUserAddProductToCart.feature"},
 glue= {"StepDefinition"},
-plugin = {"pretty", "html:target/HTMLReports.html", "json:target/cucumber.json", "junit:target/cucumber.xml"}, //report generataion
+plugin = {"pretty", "html:target/HTMLReport.html", "json:target/cucumber.json", "junit:target/cucumber.xml"}, //report generataion
 monochrome = true)  // Cleaner console output))
 public class TestRunner extends AbstractTestNGCucumberTests{
 	
